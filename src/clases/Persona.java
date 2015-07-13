@@ -7,7 +7,7 @@ package clases;
 
 /**
  *
- * @author Vanguardia Admin
+ * @author Cristo
  */
 public class Persona {
     private String nombreApellido;    

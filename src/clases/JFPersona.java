@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Vanguardia Admin
+ * @author Cristo
  */
 public class JFPersona extends javax.swing.JFrame {
 
